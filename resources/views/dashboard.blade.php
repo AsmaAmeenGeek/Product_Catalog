@@ -44,10 +44,9 @@
                         </p>
                     </div>
 
-                    <a href="{{ route('product.create') }}"
-                       class="inline-block mt-4 bg-yellow-500 hover:bg-yellow-600 text-white px-6 py-3 rounded-2xl shadow-lg transition">
-                        Add New Product
-                    </a>
+                   <a href="{{ route('product.create') }}" class="inline-block mt-4 bg-[#d2b48c] hover:bg-[#c19a6b] text-[#4b3621] px-6 py-3 rounded-2xl shadow-lg transition">
+                     Add New Product
+                   </a>
                 </div>
             </div>
         </div>
